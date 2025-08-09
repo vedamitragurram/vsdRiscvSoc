@@ -2,20 +2,26 @@
 
 ## Compilation
 
-To compile the file for the RISC-V architecture, use the following commands:
+To compile the files for the RISC-V architecture, use the following commands:
 
 ![factorial.c compilation](./pictures/factorial_compile.png)
-factorial.c compilation 
+#### factorial.c compilation 
 
+---
 ![max_array.c compilation](./pictures/max_array_compile.png)
-max_array.c compilation
+#### max_array.c compilation
 
+---
 ![bitops.c compilation](./pictures/bitops_compile.png)
-bitops.c compilation
+#### bitops.c compilation
 
+---
 ![bubble_sort.c compilation](./pictures/bubble_sort_compile.png)
-bubble_sort.c compilation
+#### bubble_sort.c compilation
 
+---
+
+## Decode Instructions
 ### **bitops_main_objdump**
 
 | Line | Opcode | Binary | funct3 | funct7 | rd  | rs1 | rs2 | Description |
@@ -64,20 +70,23 @@ bubble_sort.c compilation
 
 ---
 
-##Final Output
+## Final Output
 
 Here is the Output including RunID & ProofID:
 
 ![factorial.c output](./pictures/factorial_output.png)
-factorial.c output 
+##### factorial.c output 
 
+---
 ![max_array.c output](./pictures/max_array_output.png)
-max_array.c output
+#### max_array.c output
 
+---
 ![bitops.c output](./pictures/bitops_output.png)
-bitops.c output
+#### bitops.c output
+
+---
 
 ![bubble_sort.c output](./pictures/bubble_sort_output.png)
-bubble_sort.c output
-
+#### bubble_sort.c output
 
